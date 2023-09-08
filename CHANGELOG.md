@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.5.3] - 2023-09-08
+
+### Update
+- Removes unneeded files from package tarball
+
+## [4.5.2] - 2023-09-08
+
+### Added
+- `reconfigure` Method.
+
+### Update
+
+- Bump 'corejs' to v3.32.2
+- Bump 'zone.js' to v0.13.1
+
+
 ## [4.5.1] - 2023-05-11
 
 ### Added
