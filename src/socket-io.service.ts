@@ -15,8 +15,12 @@ export class WrappedSocket {
   };
 
   constructor(private config: SocketIoConfig) {
+    this.configure(config);
+  }
+
+  configure(config: SocketIoConfig) {
     if (config === undefined) {
-      config = this.emptyConfig;
+      this.config = this.emptyConfig;
     }
     const url: string = config.url;
     const options: any = config.options;

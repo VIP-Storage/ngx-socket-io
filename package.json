@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/rodgc/ngx-socket-io#readme",
   "dependencies": {
-    "core-js": "^3.0.0",
+    "core-js": "^3.32.2",
     "reflect-metadata": "^0.1.10",
     "socket.io": "^4.5.1",
     "socket.io-client": "^4.5.1",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.13.1"
   },
   "peerDependencies": {
     "@angular/common": "^16.0.0",
