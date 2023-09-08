@@ -1,6 +1,6 @@
 {
-  "name": "ngx-socket-io",
-  "version": "4.5.1",
+  "name": "@vipstorage/ngx-socket-io",
+  "version": "4.5.2",
   "description": "Socket.IO module for Angular",
   "main": "index.ts",
   "scripts": {

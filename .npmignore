@@ -1,2 +1,8 @@
 node_modules
 tslint.json
+.idea/
+.editorconfig
+.github
+.husky
+.travis.yml
+.prettierrc
